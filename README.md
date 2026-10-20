@@ -4,7 +4,7 @@
 Interactive dashboard on Brazilian e-commerce data (Olist).
 
 ## Tools
-Power BI Desktop, MySQL
+Power BI Desktop, MySQL, Python
 
 ## KPIs
 Total Sales, Total Orders, Total Customers, Average Review Score
